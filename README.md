@@ -18,5 +18,7 @@ I started my coding journey as a naive Computer Science student with a passion t
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 #
+
 ### 📊 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BVNgocAnh)
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BVNgocAnh&show_icons=true&theme=gruvbox)
