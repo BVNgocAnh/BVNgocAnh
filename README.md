@@ -1,6 +1,7 @@
 # 🏄‍♂️ VIỆT ANH
 
 **`(ABOUT ME)`**
+
 I started my coding journey as a naive Computer Science student with a passion to learn everything I could about this programming world. With my eagerness to learn and determination, I aspire to become a full-stack software developer.
 
 ---
