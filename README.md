@@ -18,7 +18,4 @@ I started my coding journey as a naive Computer Science student with a passion t
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-
-### 📊 Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=BVNgocAnh&theme=highcontrast&show_icons=true&count_private=true)
+---
