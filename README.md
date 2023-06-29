@@ -21,4 +21,4 @@ I started my coding journey as a naive Computer Science student with a passion t
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BVNgocAnh&show_icons=true&theme=gruvbox)
+![Github stats](https://github-readme-stats.vercel.app/api?username=BVNgocAnh&theme=highcontrast&show_icons=true&count_private=true)
